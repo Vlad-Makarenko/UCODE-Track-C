@@ -11,7 +11,7 @@ The program:
 
 ## Usage
 `./pathfinder [filename]`<br>
-For example: `./pathfinder test/example2`
+For example: `./pathfinder test/example`
 
 ## Example
 ###  Source file (example)
